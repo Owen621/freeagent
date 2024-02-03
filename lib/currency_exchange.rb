@@ -1,6 +1,6 @@
 #require "date"
 #require "json"
-
+#test
 module CurrencyExchange
 
   # Return the exchange rate between from_currency and to_currency on date as a float.
